@@ -20,14 +20,18 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (
+    ('Salesianos La Orotava', 'http://www.salesianos-laorotava.com/'),
+    ('Ayuntamiento de La Orotava', 'http://www.villadelaorotava.org/'),
+    ('Cabildo de Tenerife', 'http://www.cabtfe.es/'),
+    ('Gobierno de Canarias', 'http://www.deportecanario.com/'),
+)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (
+    ('<i class=\'fa fa-twitter\'></i> Siguenos en twitter', 'https://twitter.com/CrossMauxi'),
+    ('<i class=\'fa fa-facebook\'></i> Estamos en facebook', 'http://es-es.facebook.com/pages/CROSS-MARIA-AUXILIADORA/101320243244134'),
+)
 
 DEFAULT_PAGINATION = False
 
