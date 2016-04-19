@@ -39,6 +39,6 @@ DEFAULT_PAGINATION = False
 # RELATIVE_URLS = True
 
 THEME = "pelican-bootstrap3"
-BOOTSTRAP_THEME = "cosmo"
+BOOTSTRAP_THEME = "cerulean"
 
 PAGE_ORDER_BY = 'order'
