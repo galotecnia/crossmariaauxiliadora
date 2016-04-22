@@ -44,3 +44,4 @@ THEME = "pelican-bootstrap3"
 BOOTSTRAP_THEME = "cerulean"
 
 PAGE_ORDER_BY = 'order'
+SIDEBAR_IMAGES = ['/images/cartel.jpg', '/images/gota.jpg']
